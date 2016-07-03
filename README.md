@@ -7,7 +7,7 @@ The primary driver for price and volume appreciation of a micro-cap (a.k.a penny
 This program looks for trending micro-cap stocks and checks if there is new news about about the company. If there is new news, it will post a link in the body of a tweet as well as to a facebook page.
 
 ## About the code
-* I wrote the code in Perl, since it appears Perl is the predominant language on GitHub. I am open to doing a re-write in Phython if that gets more activity. Feel free to create a Phyton branch and we'll see which gets the most commits.
+* I wrote the code in Perl, since it appears that Perl is the predominant language on GitHub for folks who write code to monitor microcaps. I am open to doing a re-write in Phython if that gets more activity. Feel free to create a Phyton branch and we'll see which gets the most commits.
 * I do share share out my own Twitter app's consumer and secret keys in the code. Here is a link that has information on how to [register your own app in twitter] (https://apps.twitter.com/).
 
 ## To-dos
